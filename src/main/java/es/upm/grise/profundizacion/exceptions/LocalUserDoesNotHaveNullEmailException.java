@@ -1,4 +1,4 @@
-package es.grise.upm.profundizacion.exceptions;
+package es.upm.grise.profundizacion.exceptions;
 
 public class LocalUserDoesNotHaveNullEmailException extends Exception {
 

@@ -1,11 +1,11 @@
-package es.grise.upm.profundizacion.subscriptionService;
+package es.upm.grise.profundizacion.subscriptionService;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
-import es.grise.upm.profundizacion.exceptions.ExistingUserException;
-import es.grise.upm.profundizacion.exceptions.NullUserException;
-import es.grise.upm.profundizacion.exceptions.LocalUserDoesNotHaveNullEmailException;
+import es.upm.grise.profundizacion.exceptions.ExistingUserException;
+import es.upm.grise.profundizacion.exceptions.LocalUserDoesNotHaveNullEmailException;
+import es.upm.grise.profundizacion.exceptions.NullUserException;
 
 public class SubscriptionService {
 

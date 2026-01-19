@@ -1,4 +1,4 @@
-package es.grise.upm.profundizacion.subscriptionService;
+package es.upm.grise.profundizacion.subscriptionService;
 
 import org.junit.jupiter.api.Test;
 
